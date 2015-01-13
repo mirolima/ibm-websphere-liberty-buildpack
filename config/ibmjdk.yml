@@ -15,5 +15,5 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/jre"
+repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/jre/1.7.1/linux/ibm-java-jre-7.1-1.1-x86_64-archive.bin"
 version: 1.7.+
